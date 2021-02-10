@@ -1,0 +1,15 @@
+mark
+male
+100
+jack
+male
+90
+rose
+female
+50
+tim
+male
+0
+amy
+female
+60
