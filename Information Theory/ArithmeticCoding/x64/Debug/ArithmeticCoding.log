@@ -1,0 +1,9 @@
+﻿  ArithCoding.cpp
+C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\ArithCoding.cpp(16,16): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\ArithCoding.cpp(17,18): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\ArithCoding.cpp(22,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\ArithCoding.cpp(87,12): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\ArithCoding.cpp(89,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  main.cpp
+  正在生成代码...
+  ArithmeticCoding.vcxproj -> C:\Users\Hp\Desktop\大三上\信息论与密码学\算数编码\ArithmeticCoding\x64\Debug\ArithmeticCoding.exe
